@@ -32,7 +32,7 @@ function modEncriptacion($elNumero)
 }
 
 /**
- * este modulo encripta un numero
+ * este modulo desencripta un numero
  * @param int $elNumero
  * @return int
  */
